@@ -5,11 +5,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on finding my passion
-- 🌱 I’m currently learning algorithm, deep learning
+- 🌱 I’m currently working on enhancing my knowledge of frontend
 - 👯 I’m looking to collaborate on github, gitlab
-- 🤔 I’m looking for help with unknown
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with TBD
+- 💬 Ask me about FE
 - 📫 How to reach me: hylbegoat@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
